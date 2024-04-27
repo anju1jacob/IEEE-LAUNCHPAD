@@ -6,21 +6,56 @@
 
 
 ## Portfolio Highlights
+ Recipient of the Outstanding Academic Performance Award
+ for maintaining a consistent CGPA throughout the degree
+ program.
 
 ### My Projects
 
 | Name                        | Description                                                                                                          | Repo Link                                                      |
 |---------------------        |---------------------------------------------------------------------------                                           |----------------------------------------------------------------|
-| **Job Portal Application**  | The Recruiter module is typically used to handle job posting,accept/reject applicant, manage job opening session. The Jobseeker module users can search for job based on job title,location and job type, and apply for desired jobs   | [Repo Link 1](https://github.com/anju1jacob/Job-Portal-Application-python-Django)             |
+| **Job Portal Application**  | Using Python, Django,and MySql built a job portal application. The Recruiter module is typically used to handle job posting,accept/reject applicant, manage job opening session. The Jobseeker module users can search for job based on job title,location and job type, and apply for desired jobs   | [Repo Link 1](https://github.com/anju1jacob/Job-Portal-Application-python-Django)             |
                                  
 
-#### Leadership and Influence:
+### Leadership and Influence:
 
-- In my domain as a Python Full Stack Developer, I've demonstrated leadership through project management at Quest Innovative Solutions, where I led teams in developing user interfaces. Additionally, at Infox Technologies, I mentored colleagues through various stages of web development, showcasing my ability to influence and guide others. My consistent academic performance and Outstanding Academic Performance Award underscore my commitment to excellence, serving as a model for peers. Overall, my experiences exemplify leadership and influence in the Python development domain, driving successful outcomes and fostering team growth.
+- In my domain as a Python Full Stack Developer, I've demonstrated leadership through project management at Quest Innovative Solutions, where I mentored colleagues through various stages of web development, showcasing my ability to influence and guide others. My consistent academic performance and Outstanding Academic Performance Award underscore my commitment to excellence, serving as a model for peers. Overall, my experiences exemplify leadership and influence in the Python development domain, driving successful outcomes and fostering team growth.
 
-#### Career Plan:
+### Career Plan:
 
-- To enhance the Kerala Startup Ecosystem, I plan to actively participate in local events, offer mentorship, and initiate collaborative projects. Long-term goals involve establishing startup incubators, advocating for improved education, and working with policymakers. Kerala can excel in technology startups by investing in infrastructure, facilitating access to capital, developing talent, fostering industry collaboration, and promoting global integration. These efforts will create a conducive environment for innovation, entrepreneurship, and economic growth, positioning Kerala as a leading hub for technology startups in the future.
+As a Python Full Stack Developer, I am committed to continuous growth and advancement in my career. In the short term, I aim to deepen my expertise in web development by mastering frameworks like Django and Flask, as well as expanding my knowledge of front-end technologies such as JavaScript and Angular.
+
+In the long term, I aspire to take on leadership roles within development teams, where I can leverage my technical skills and collaborate effectively to deliver innovative solutions. I am particularly interested in exploring opportunities to lead projects that utilize emerging technologies, such as artificial intelligence and machine learning, to solve complex problems.
+
+To achieve these goals, I am dedicated to ongoing professional development and learning. I plan to pursue additional certifications and courses. Furthermore, I am eager to contribute to the wider developer community through participation in conferences, hackathons, and open-source projects. By sharing knowledge and collaborating with peers, I believe we can collectively drive positive change and innovation in the field of technology.
+
+### Technical Skills:
+
+#### Programming Languages:
+
+Python<br>
+JavaScript<br>
+#### Web Development:
+
+HTML<br>
+CSS<br>
+Bootstrap<br>
+jQuery<br>
+Angular<br>
+#### Web Frameworks:
+
+Django<br>
+Flask<br>
+#### Databases:
+
+MySQL<br>
+MongoDB<br>
+#### GUI Development:
+
+TKinter<br>
+#### Version Control:
+
+Git
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
