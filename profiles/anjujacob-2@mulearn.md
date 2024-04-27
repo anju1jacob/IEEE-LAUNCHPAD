@@ -19,7 +19,7 @@
 
 ### Leadership and Influence:
 
-- In my domain as a Python Full Stack Developer, I've demonstrated leadership through project management at Quest Innovative Solutions, where I mentored colleagues through various stages of web development, showcasing my ability to influence and guide others. My consistent academic performance and Outstanding Academic Performance Award underscore my commitment to excellence, serving as a model for peers. Overall, my experiences exemplify leadership and influence in the Python development domain, driving successful outcomes and fostering team growth.
+In my domain as a Python Full Stack Developer, I've demonstrated leadership through project management at Quest Innovative Solutions, where I mentored colleagues through various stages of web development, showcasing my ability to influence and guide others. My consistent academic performance and Outstanding Academic Performance Award underscore my commitment to excellence, serving as a model for peers. Overall, my experiences exemplify leadership and influence in the Python development domain, driving successful outcomes and fostering team growth.
 
 ### Career Plan:
 
@@ -59,5 +59,5 @@ Git
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has the potential to excel in the Technology Startup Ecosystem by capitalizing on its highly educated workforce, fostering a culture of innovation and entrepreneurship, implementing supportive government policies, improving infrastructure and connectivity, enhancing access to funding, and promoting global integration. By addressing these key areas, Kerala can create an enabling environment for startups to thrive, driving economic growth, job creation, and societal impact. With a concerted effort from government bodies, industry stakeholders, and academia, Kerala can position itself as a leading destination for technology startups, contributing to its transformation into a vibrant hub of innovation and entrepreneurship in the future.
+Kerala has the potential to excel in the Technology Startup Ecosystem by capitalizing on its highly educated workforce, fostering a culture of innovation and entrepreneurship, implementing supportive government policies, improving infrastructure and connectivity, enhancing access to funding, and promoting global integration. By addressing these key areas, Kerala can create an enabling environment for startups to thrive, driving economic growth, job creation, and societal impact. With a concerted effort from government bodies, industry stakeholders, and academia, Kerala can position itself as a leading destination for technology startups, contributing to its transformation into a vibrant hub of innovation and entrepreneurship in the future.
 
